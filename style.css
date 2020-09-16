@@ -1,5 +1,5 @@
 body {
-  background-color: beige;
+  background-color: green;
 }
 
 .body {
@@ -10,5 +10,13 @@ body {
 }
 
 .jidelnicek {
-  
+  width: 400px;
+  margin: 0;
+  padding: 10 px 0 0;
+}
+
+.p {
+  background-color: ivory;
+  margin: 0;
+  padding: 10 px 0 0;
 }
